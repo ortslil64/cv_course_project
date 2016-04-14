@@ -1,0 +1,1 @@
+/home/or/opencv_ws/src/cv_or/CMakeFiles/or.dir
